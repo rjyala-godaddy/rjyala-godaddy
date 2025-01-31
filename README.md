@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahuljyalals from 🇮🇳
 
 
-## 🎉 Today's Tech Joke
+## Joke Time
 
 ![Joke Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
 
