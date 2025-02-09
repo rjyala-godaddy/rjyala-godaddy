@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @rahuljyalals from 🇮🇳
 
-
-## Joke Time
-
 ![Joke Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
 
 <!--## 📈 Github Stats
