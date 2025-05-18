@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rahuljyalals from 🇮🇳
 
-![Joke Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
-
 <!--## 📈 Github Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rjyala-godaddy&show_icons=true&hide_border=true&theme=gotham" />
